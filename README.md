@@ -1,4 +1,4 @@
-# Final_Project_Alternant_Crew
+# Final Project Alternant Crew
 
 In this project you will find all the code that was used for our final project. The work is distributed in three folders that correspond to the individual participation of each team member. To display each of the three visuals, go into the folder, execute the main.py and click on the adresse displayed in the terminal (e.g. http://127.0.0.1:8050/).
 
